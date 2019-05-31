@@ -124,3 +124,8 @@ body {
     color: #fff;
     filter: brightness(0) invert(1);
 }
+
+.checked {
+    text-decoration: line-through;
+    color: #999;
+}
